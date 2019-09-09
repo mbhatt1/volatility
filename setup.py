@@ -50,7 +50,7 @@ def find_files(topdirs, py = False):
 opts = {}
 
 opts['name'] = "volatility"
-opts['version'] = volatility.constants.VERSION
+opts['version'] = "2.6.2"
 opts['description'] = "Volatility -- Volatile memory framework"
 opts['author'] = "AAron Walters"
 opts['author_email'] = "awalters@4tphi.net"
